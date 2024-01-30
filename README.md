@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Mohsin khan</h1>
-<div align="center"> <img src="https://github.com/Mohsinkkk/Mohsinkkk/blob/main/image.jpg"> </div>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -23,12 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/mohsink15072001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohsink15072001" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohsin-khan-03363419b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohsin-khan-03363419b" height="30" width="40" /></a>
-<a href="https://kaggle.com/mohsin0786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohsin0786" height="30" width="40" /></a>
 <a href="https://instagram.com/mohsin_jkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohsin_jkhan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mdmohsinkha696" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mdmohsinkha696" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mohsink15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohsink15" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mdmohsinkha696" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdmohsinkha696" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mdmohsinkha696" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mdmohsinkha696" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
